@@ -4,10 +4,10 @@ The Brusselator is a theoretical model for a type of autocatalytic reaction. The
 
 It is characterized by the reactions:
 
-A -> X
-2X + Y -> 3X
-B + X -> Y + D
-X -> E.
+A -> X <br />
+2X + Y -> 3X <br />
+B + X -> Y + D <br />
+X -> E. <br />
 
 
 I have modelled it computationally using JSIM. It is a very basic compuational software that is powerful too. One plot is attached and with little manipulations a varied kind of results could be achieved too. 
