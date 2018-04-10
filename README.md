@@ -9,5 +9,9 @@ A -> X
 B + X -> Y + D
 X -> E.
 
-
 I have modelled it computationally using JSIM. It is a very basic compuational software that is powerful too. One plot is attached and with little manipulations a varied kind of results could be achieved too. 
+
+### Graphs:
+
+** ![Phase plots](./brusselator.jpg) **
+
